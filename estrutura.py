@@ -30,4 +30,4 @@ def escolha_operacao():
         print("Você não escolheu uma operação valida, Escolha novamente")
         print("*" * 42)
         escolha_operacao()
-
+'''git'''

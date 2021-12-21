@@ -11,7 +11,7 @@ while parar == "S":
     parar = str(input("Deseja Calcular novamente (S) SIM ou (N) não: ")).upper()
 
 
-
+'''git'''
 
 
 
